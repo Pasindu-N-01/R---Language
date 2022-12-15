@@ -1,0 +1,4 @@
+"index" "name" "marks"
+"1" 1 "amal" 55
+"2" 2 "kamal" 75
+"3" 3 "nimal" 92
